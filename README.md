@@ -4,6 +4,8 @@ My phone configuration is SDK 22(5.1), so I build my app for the same configurat
 
 I'll be folllowing basic thenewboston's tutorial on [youtube](https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) first, and then proceed to other resources.(A total of 77 videos)
 
+Thanks, but no thanks this time bucky.
+
 Most of the app folders are half-baked, not stand alone completed apps. The completed apps deserve a repo of their own, links to which are mentioned separately.
 
 Cheap tricks to get your app working in Android studio 2.2.2 :
@@ -50,3 +52,7 @@ Lesson 11 onwards - [Hamblaster](Hamblaster/)
 Starts with no activity.
 
 Lesson 13 onwards - [Allison](Allison/).
+
+At this point, my results are out and I realise Bucky's Tutorials won't work any more, because studio 2.2.2 is arrogant piece of shit, so yeah let's move to the new version hosted by [google]() themselves.
+
+A commit here, because I'm gonna remove a lot of things from here.
